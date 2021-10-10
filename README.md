@@ -1,8 +1,7 @@
 # Nodejs-HallBooking
-
 ##For creating Rooms
--use the link https://hallbooking437.herokuapp.com/createrooms with post method
--the req body should be like below
+--use the link https://hallbooking437.herokuapp.com/createrooms with post method
+--the req body should be like below
 ```Javascript
 {  
   "roomname" : "Non-Ac Room",
